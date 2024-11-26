@@ -2,6 +2,4 @@
 
 0w0
 
-
-
-Hi
+Wassup
